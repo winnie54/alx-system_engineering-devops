@@ -1,1 +1,1 @@
-current directory contents, including hidden files (starting with .)
+Script that creates a directory
