@@ -1,1 +1,2 @@
-move the file 
+#!/bin/bash
+mv /tmp/betty my_first_diretory
