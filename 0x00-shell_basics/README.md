@@ -1,1 +1,1 @@
-move the file
+current directory contents, including hidden files (starting with .)
