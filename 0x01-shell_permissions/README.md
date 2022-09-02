@@ -1,1 +1,1 @@
-Script that changes group owner to school for file hello
+Script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory
