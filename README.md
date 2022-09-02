@@ -1,1 +1,1 @@
-Welcome
+File type:School
