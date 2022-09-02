@@ -1,1 +1,1 @@
-Delete the directory my firt directory that is in the /tmp directory
+Script that changes the working directory to the previous one
