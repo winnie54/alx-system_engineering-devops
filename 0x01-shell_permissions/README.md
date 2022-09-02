@@ -1,1 +1,1 @@
-Script that creates a directory with 751 permissions in th working directory
+Script that changes group owner to school for file hello
