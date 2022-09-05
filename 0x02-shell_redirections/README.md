@@ -1,1 +1,1 @@
-Script that creates a file containing a text ending by a new line
+Script that writes the result of the command ls -a into a file
