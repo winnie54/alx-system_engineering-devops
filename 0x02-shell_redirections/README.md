@@ -1,1 +1,1 @@
-Script that displays the third line of file iacta
+Script that creates a file containing a text ending by a new line
