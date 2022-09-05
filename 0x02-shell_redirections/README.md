@@ -1,1 +1,1 @@
-Script that writes the result of the command ls -a into a file
+Script that duplicates the last line of a file
