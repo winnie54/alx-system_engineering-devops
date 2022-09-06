@@ -1,1 +1,1 @@
-add /action to path
+Script that counts the number of directgories in path
