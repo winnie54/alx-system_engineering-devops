@@ -1,1 +1,1 @@
-Script that creates a new local variable
+Script that creates a global variable
