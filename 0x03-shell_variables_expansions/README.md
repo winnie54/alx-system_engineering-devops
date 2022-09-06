@@ -1,1 +1,1 @@
-Script that counts the number of directgories in path
+Script that prints environment variables
