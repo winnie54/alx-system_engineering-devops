@@ -1,1 +1,1 @@
-Script that prints the result of the addition of 128 with the value stored in the environment variable
+Script that prints result of power divided by divide
