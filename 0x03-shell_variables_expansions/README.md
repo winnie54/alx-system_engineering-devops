@@ -1,1 +1,1 @@
-Script that converts base two to base ten
+Script that ptin ts all the possible combiations of two letters
