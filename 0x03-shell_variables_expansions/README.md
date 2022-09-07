@@ -1,1 +1,1 @@
-Script that ptin ts all the possible combiations of two letters
+Script that adds two numbers to environment variables
